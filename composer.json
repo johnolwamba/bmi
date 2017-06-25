@@ -1,0 +1,12 @@
+{
+    "name": "john/bmi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johnstone",
+            "email": "johnolwamba@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
